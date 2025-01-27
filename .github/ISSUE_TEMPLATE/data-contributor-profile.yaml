@@ -3,7 +3,7 @@ description: Issue ticket for introducing oneself as a potential project contrib
 title:  "{Your Name}: Data Contributor Profile"
 labels: [ "data-nerds", "contributor profile"]
 assignees:
-  - jcklpe
+  - paulvonderhaar
 body:
   - type: textarea
     id: introduction
